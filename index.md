@@ -1,7 +1,5 @@
 ---
-title: $Rubbish\_Du's\,home$
+title: Rubbish_Du's home
 ---
-$$
-There\ are\ dreams\ in\ life,and\ each\ is\ wonderful.
-$$
 
+There are dreams in life,and each is wonderful.
