@@ -1,5 +1,7 @@
 ---
-title: Welcome to my blog
+title: $Rubbish\_Du's\,home$
 ---
+$$
+There\ are\ dreams\ in\ life,and\ each\ is\ wonderful.
+$$
 
-This is Rubbish_Du.
