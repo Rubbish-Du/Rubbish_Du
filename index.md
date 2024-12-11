@@ -1,7 +1,5 @@
 ---
 title: Rubbish_Du's home
+subtitle: There are dreams in life,and each is wonderful.
 ---
-
-There are dreams in life,and each is wonderful.
-
-text
+# THUPC2025 游玩记
