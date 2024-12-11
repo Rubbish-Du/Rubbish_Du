@@ -69,15 +69,11 @@ _OI生涯中第二次出去集训_
 
 求
 
-$$
-\huge\sum_{i=1}^{n} \lfloor \sqrt{i} \rfloor
-$$
+$$\huge\sum_{i=1}^{n} \lfloor \sqrt{i} \rfloor$$
 
 现场没有继续往后推式子并且不知道 
 
-$$
-\huge\sum_{i=1}^{n}i^2= \frac{n(n+1)(2n+1)}{6}
-$$
+$$\huge\sum_{i=1}^{n}i^2= \frac{n(n+1)(2n+1)}{6}$$
 
 这个结论（现在知道了，也会证明了），赛场上代码时间复杂度为  $O(\sqrt{n})$  ，正解时间复杂度为  $O(1)$  ，拿到了70分。
 
