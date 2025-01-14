@@ -12,6 +12,11 @@ subtitle: There are dreams in life,and each is wonderful.
 
 [阅读全文->](https://rubbish-du.github.io/Rubbish_Du/md/%E9%97%B2%E8%AF%9D%E9%9B%86)
 
+# 故事集
+2024-12-06 21:21
+
+[阅读全文->](https://rubbish-du.github.io/Rubbish_Du/md/%E6%95%85%E4%BA%8B%E9%9B%86)
+
 # 2024NOIP游记
 2024-12-01 12:58
 
